@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\obj\Debug\Facilitator.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\obj\Debug\Facilitator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\bin\Debug\Facilitator.dll
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\bin\Debug\Facilitator.pdb
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\bin\Debug\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\bin\Debug\Rocket.API.dll
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\bin\Debug\Rocket.Core.dll
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\bin\Debug\Rocket.Unturned.dll
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\bin\Debug\UnityEngine.dll
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\obj\Debug\Facilitator.csproj.CopyComplete
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\obj\Debug\Facilitator.dll
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\obj\Debug\Facilitator.pdb
+C:\Users\Admin\Desktop\Visual Studio\Unturned Dll\Facilitator\Facilitator\bin\Debug\Newtonsoft.Json.dll
